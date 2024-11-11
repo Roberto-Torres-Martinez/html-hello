@@ -1,0 +1,87 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: black ;
+    margin: 0 auto;
+    width: 750px;
+}
+
+.img {
+    width: 750px;
+    height: 750px;
+    object-fit: cover;
+    display: flex;
+}
+
+.post {
+    margin: 0 auto;
+    background: lightcyan;
+    width: 750px;
+    display:flex;
+    align-items:normal;
+    flex-direction: column;
+}
+
+.post-header {
+    display:flex;
+}
+
+h1 {
+    font-size: 15px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+#p1 {
+    margin-top: 25px;
+    margin-left: 43px;
+    position: absolute;
+    
+}
+
+#html5 {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#kebab {
+    font-size: 40px;
+    margin-left: 640px;
+    margin-top: 5px;
+    justify-content: flex-end;
+}
+
+.post-icons {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+#hearth1 {
+    margin-right: 10px;
+    font-size: 30px;
+    
+}
+
+#comment1 {
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+#share1 {
+    font-size: 30px;
+}
+
+#bookmark {
+    margin-right: 10px;
+    font-size: 30px;
+    margin-left: 595px;
+}
+
+.post-body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
